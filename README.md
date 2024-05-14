@@ -1,5 +1,7 @@
 <h3 align="center">Programmatore fallito che non sa come occupare il tempo</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeySambu&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonkeySambu&repo=PacMan2.0&theme=midnight-purple&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_samuele.marinelli_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samuele.marinelli_" height="30" width="40" /></a>
